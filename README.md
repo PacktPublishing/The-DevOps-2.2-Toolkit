@@ -23,7 +23,7 @@ docker service create \
  alpine sleep 100000000
 ```
 
-Git
+You need to install Git
 
 ## Related Products
 * [The DevOps 2.1 Toolkit: Docker Swarm](https://www.packtpub.com/application-development/devops-21-toolkit-docker-swarm?utm_source=github&utm_medium=repository&utm_campaign=9781787289703)
