@@ -1,0 +1,10 @@
+/.idea
+*.iml
+.DS_Store
+ms-lifecycle
+*.bak
+/jenkins/go-demo
+/jenkins/docker
+*.secret
+/secrets
+*.pem
