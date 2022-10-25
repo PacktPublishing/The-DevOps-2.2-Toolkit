@@ -32,3 +32,7 @@ You need to install Git
 
 * [Mobile DevOps](https://www.packtpub.com/virtualization-and-cloud/mobile-devops?utm_source=github&utm_medium=repository&utm_campaign=9781788296243)
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781788991278">https://packt.link/free-ebook/9781788991278 </a> </p>
